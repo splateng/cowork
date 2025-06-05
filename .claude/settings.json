@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep:*)",
+      "Bash(bash:*)",
+      "Update(cowork.sh)",
+      "Update(README.md)",
+      "Update(Claude.md)"
+    ],
+    "deny": []
+  }
+}
